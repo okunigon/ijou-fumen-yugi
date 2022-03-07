@@ -2,267 +2,366 @@
 
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
     "title":"B.B.K.K.B.K.K. [隣]",
     "artist":"nora2r (movie : 出前)",
     "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=88",
-    "charter":"lixound",
+    "name_diff":"lixound",
     "md5":"5374234b57e7065200e09dc157831d48",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
     "title":"Better Graphic Animation [Better Gimmick Artworks]",
     "artist":"A-ZERO Project + ルゼ (movie : A-ZERO Project)",
     "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=338&event=123",
-    "charter":"hyuki",
+    "name_diff":"hyuki",
     "md5":"5ff9d30e4ce27b687c18045379eff79b",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
+    "title":"carnation 〈sustain〉",
+    "artist":"ああああ",
+    "url":"https://bms.kyouko.moe/torrent/BMS_Library/carnation%20[for%20(by%20%E3%81%82%E3%81%82%E3%81%82%E3%81%82).rar",
+    "name_diff":"1008",
+    "md5":"1d19b0c828bc2ea44bdbe261bab661ed",
+    "comment":""
+    },
+    
+    {
+    "level":"第1回",
+    "video2":"",
     "title":"Enneaquest [SP SPIN]",
     "artist":"Sephid (movie : EraPi0neer)",
     "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=133",
-    "charter":"hyuki",
+    "name_diff":"hyuki",
     "md5":"9a29844bbdba3214a021bd76f9861cf2",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
     "title":"far in the blue sky... [---]",
     "artist":"saikoro",
     "url":"http://web.archive.org/web/20040601000000/http://www.digitaljunk.net/saikoro-fitbs.rar",
-    "charter":"---",
+    "name_diff":"---",
     "md5":"a89fd3b89144c0a1e54bbca4db12adb9",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
     "title":"HIDDEN, TRACK, CALLED 'No.II' (maniac)",
     "artist":"wosderge (movie : アクシル)",
     "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=374&event=104",
-    "charter":"sera",
+    "name_diff":"sera",
     "md5":"462490b43d3405776dfc745488b78483",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
     "title":"Luminaria [Foldstair of Fighters]",
     "artist":"Lime",
     "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=137",
-    "charter":"- (sera)",
+    "name_diff":"- (sera)",
     "md5":"e524590f465309a973e1fc7b6bbbd7c6",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
     "title":"Magical Love Words [マジカル逆走]",
     "artist":"源屋 feat.ユスラ",
     "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=36",
-    "charter":"hyuki",
+    "name_diff":"hyuki",
     "md5":"92a62fc0718fee7e361f30aff51a96c7",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
     "title":"positive dance \"2nd RAVE\"[VHe]",
     "artist":"cranky",
     "url":"http://web.archive.org/web/20050212232547/http://pal.mydns.to/cranky/up/5key/5k-posi2.zip",
-    "charter":"turbow",
+    "name_diff":"turbow",
     "md5":"9c56eacfcf33824f0a0e535448af47d5",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
     "title":"s.o.b [p-type]",
     "artist":"しろ",
     "url":"http://shiros-music.sakura.ne.jp/nzbms.html",
-    "charter":"DJ.END",
+    "name_diff":"DJ.END",
     "md5":"8f3014763562c5a97fb0b0c445ff0137",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
     "title":"s.o.b [p.o.w.e.r]",
     "artist":"しろ",
     "url":"http://shiros-music.sakura.ne.jp/nzbms.html",
-    "charter":"Freddy",
+    "name_diff":"Freddy",
     "md5":"b4496e484fcd7bae783348d84cbfc34d",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
-    "title":"Silver Heaven [Symphonic]",
-    "artist":"Ym1024",
-    "url":"https://yellowmapleleaf.com/bms/bms.htm",
-    "charter":"DJ.END",
-    "md5":"a663d79752874c4c6c555c55b172009d",
-    "comment":""
-    },
-    
-    {
-    "level":"第1回",
-    "video":"",
+    "video2":"",
     "title":"Silver Heaven [BGM]",
     "artist":"Ym1024",
     "url":"https://yellowmapleleaf.com/bms/bms.htm",
-    "charter":"Freddy",
+    "name_diff":"Freddy",
     "md5":"8fe7909e9706159381f097331a3875d1",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
+    "title":"Silver Heaven [Symphonic]",
+    "artist":"Ym1024",
+    "url":"https://yellowmapleleaf.com/bms/bms.htm",
+    "name_diff":"DJ.END",
+    "md5":"a663d79752874c4c6c555c55b172009d",
+    "comment":""
+    },
+    
+    {
+    "level":"第1回",
+    "video2":"",
+    "title":"Summer White [mosaic]",
+    "artist":"shimizushi (movie : AnD(Basedon illustration by a.a))",
+    "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=137",
+    "name_diff":"Aurum",
+    "md5":"d5375b5c68004debdb2484647376a107",
+    "comment":""
+    },
+    
+    {
+    "level":"第1回",
+    "video2":"",
+    "title":"SUPER STAR DISCO [7K CONVERT]",
+    "artist":"knot",
+    "url":"https://drive.google.com/file/d/1DM6fxvG7VovjE-_gsxw9kIoylvCut8JX/view?usp=sharing",
+    "name_diff":"うに",
+    "md5":"23a609b0d1807b3811f92173bc740319",
+    "comment":""
+    },
+    
+    {
+    "level":"第1回",
+    "video2":"",
     "title":"T'Suramic [T'Surather]",
     "artist":"RearDawn (movie : HYOUTAN)",
     "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=505&event=110",
-    "charter":"rat",
+    "name_diff":"rat",
     "md5":"4e79ef3da8c6151be043b08ae6ea75e3",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
     "title":"The Old Man and Deep Blue Ocean [←→]",
     "artist":"小室哲哉",
     "url":"https://www.mediafire.com/file/b0yhpar4gi5rr92/The_Old_Man_and_Deep_Blue_Ocean.zip/file",
-    "charter":"sera",
+    "name_diff":"sera",
     "md5":"d0e97b71d96be5fb4917eb1092d2ca52",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
     "title":"The Old Man and Deep Blue Ocean [▲▼]",
     "artist":"小室哲哉",
     "url":"https://www.mediafire.com/file/b0yhpar4gi5rr92/The_Old_Man_and_Deep_Blue_Ocean.zip/file",
-    "charter":"sera",
+    "name_diff":"sera",
     "md5":"8ee7f0162fda7369352d85c5897cbed5",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
-    "title":"Ulster [14K NORMAL]",
-    "artist":"Gymholax",
-    "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=137",
-    "charter":"Argeld(Khibine)",
-    "md5":"74822bc14f180149e1e862ccb95ea033",
+    "video2":"",
+    "title":"TURNDOWN [Satelite Shooter]",
+    "artist":"Ras / 140",
+    "url":"https://dropbox.bms.ms/u/63612044/TURNDOWN_bms.rar",
+    "name_diff":"1/8",
+    "md5":"4972a2c90ad6eb84881e660493c9e381",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
-    "title":"Ulster [14K HYPER]",
-    "artist":"Gymholax",
-    "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=137",
-    "charter":"Argeld(Khibine)",
-    "md5":"9ee6d19ba875ffa648751d938b55523a",
-    "comment":""
-    },
-    
-    {
-    "level":"第1回",
-    "video":"",
+    "video2":"",
     "title":"Ulster [14K ANOTHER]",
     "artist":"Gymholax",
     "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=137",
-    "charter":"Argeld(Khibine)",
+    "name_diff":"Argeld(Khibine)",
     "md5":"b8514ecd3ed865a14fd442954cbea56d",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
-    "title":"Volt [STRUCK]",
-    "artist":"utah (movie : Genkai)",
-    "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=137",
-    "charter":"Khibine",
-    "md5":"1c07222e6bb3982586a2f44f512d5b3b",
+    "video2":"",
+    "title":"Ulster [14K HYPER]",
+    "artist":"Gymholax",
+    "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=137",
+    "name_diff":"Argeld(Khibine)",
+    "md5":"9ee6d19ba875ffa648751d938b55523a",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
+    "title":"Ulster [14K NORMAL]",
+    "artist":"Gymholax",
+    "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=137",
+    "name_diff":"Argeld(Khibine)",
+    "md5":"74822bc14f180149e1e862ccb95ea033",
+    "comment":""
+    },
+    
+    {
+    "level":"第1回",
+    "video2":"",
     "title":"Volt [CARDINALSTRUCK]",
     "artist":"utah (movie : Genkai)",
     "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=137",
-    "charter":"Khibine",
+    "name_diff":"Khibine",
     "md5":"37a0a60c56ce5b8350f113245848e9f3",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
+    "title":"Volt [STRUCK]",
+    "artist":"utah (movie : Genkai)",
+    "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=137",
+    "name_diff":"Khibine",
+    "md5":"1c07222e6bb3982586a2f44f512d5b3b",
+    "comment":""
+    },
+    
+    {
+    "level":"第1回",
+    "video2":"",
+    "title":"WE ARE HARDCORE [OVERWHELM]",
+    "artist":"lixound (movie : Ratif)",
+    "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=307&event=123",
+    "name_diff":"1008",
+    "md5":"e18bef92d80f4f9eb35e276794edbe85",
+    "comment":""
+    },
+    
+    {
+    "level":"第1回",
+    "video2":"",
     "title":"whence [ASSEMBLE]",
     "artist":"qfeileadh feat. kei_iwata",
     "url":"http://k-bms.com/party_pabat/party.jsp?board_num=21&num=38&order=reg&odtype=a",
-    "charter":"Khibine",
+    "name_diff":"Khibine",
     "md5":"478599d711fda44512956a9668a33fbc",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
     "title":"Wonderful Tomorrow [LN+]",
     "artist":"Dolphin feat. Sennzai (movie : Mali Evjen)",
     "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=137",
-    "charter":"hyuki",
+    "name_diff":"hyuki",
     "md5":"8da889f636810cf63cec6ba238017292",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
+    "title":"あにまら [Agape]",
+    "artist":"TOMA / Frost Shrike",
+    "url":"https://onedrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21330&parId=F61C1F8825F0CF46%21159&o=OneUp",
+    "name_diff":"fuko",
+    "md5":"7a2f364feed7200d402f99e6ca237ee9",
+    "comment":""
+    },
+    
+    {
+    "level":"第1回",
+    "video2":"",
     "title":"たたくメイド イン 縦連打 [≡]",
     "artist":"o.s.gate",
     "url":"http://likeside.net/event/100notes/detail/view/34/",
-    "charter":"numuto respect for Kani",
+    "name_diff":"numuto respect for Kani",
     "md5":"480e85814cbfd56fb988d080e298e90a",
     "comment":""
     },
     
     {
     "level":"第1回",
-    "video":"",
+    "video2":"",
+    "title":"ダンディシズム[アタタ7]",
+    "artist":"Dandy.MORI",
+    "url":"https://web.archive.org/web/20071105054002/http://page.freett.com/mekurumeku/bms.html",
+    "name_diff":"kaguya",
+    "md5":"5a466ec7d5fe2982d668b7ffd4402dbd",
+    "comment":""
+    },
+    
+    {
+    "level":"第1回",
+    "video2":"",
+    "title":"ベリハッピーだあああぁああぁあぁあああ！！！！！",
+    "artist":"Specter L",
+    "url":"https://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=109",
+    "name_diff":"1008",
+    "md5":"2dc4b58a8f83015c89cf6e43c27a7ceb",
+    "comment":""
+    },
+    
+    {
+    "level":"第1回",
+    "video2":"",
+    "title":"ヨッシーアイランド 「大ボス戦」 [BOOT CAMP]",
+    "artist":"近藤浩治 BMS:Kamek",
+    "url":"https://www.dropbox.com/s/hagwbfe5jb4et1w/yi_bb.rar",
+    "name_diff":"1008",
+    "md5":"bc9d877e94478320a7067c93146d2e84",
+    "comment":""
+    },
+    
+    {
+    "level":"第1回",
+    "video2":"",
     "title":"炎花 - flameflower - [sorry]",
     "artist":"P4koo",
     "url":"http://www.mediafire.com/download/gwd8z1v6w355jco/flameflower.zip",
-    "charter":"turbow",
+    "name_diff":"turbow",
     "md5":"8d81c70fc0ceba4e6a5e06e231d373f7",
     "comment":""
     }
     
-    ]
+]
     
